@@ -1,3 +1,5 @@
+//don't copy paste, error checks don't work!!
+
 #include"shaderClass.h"
 
 // Reads a text file and outputs a string with everything in the text file
